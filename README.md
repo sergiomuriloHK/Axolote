@@ -1,3 +1,3 @@
 # Axolote
 
-https://sergiomurilohk.github.io/Axolote/
+https://sergiomurilohk.github.io/Axolote/Axolote/
